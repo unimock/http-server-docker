@@ -1,0 +1,5 @@
+
+```
+docker buildx bake [--push]
+```
+
